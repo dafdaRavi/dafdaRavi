@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @horrorboy
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently learning Android Java || DS-A
 - 💞️ I’m looking to collaborate on Open Source Project for JAVA
 - 📫 How to reach me ...
 
